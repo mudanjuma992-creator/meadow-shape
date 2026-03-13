@@ -1,0 +1,7 @@
+# MeadowShape
+
+MeadowShape is a decentralized ecosystem gamification platform that transforms real-world environmental data into an interactive blockchain gaming experience. Players cultivate virtual biomes that mirror actual ecosystem health metrics sourced from environmental sensors, satellite data, and community reporting, with Dynamic Biome NFTs that evolve based on real environmental conditions in corresponding locations.
+
+The platform employs oracle networks to feed real-time environmental data onto the blockchain, while smart contracts automatically adjust biome parameters and distribute rewards through a triple-token system. Players can acquire randomized native species NFTs through reimagined loot box mechanics called Seed Packets, with rarity determined by actual endangered species conservation status, and stake their evolved biome NFTs to earn Growth, Impact, and Governance Tokens.
+
+The system creates direct environmental impact by connecting virtual gameplay to real-world conservation outcomes, where players earn rewards when linked locations show ecological improvement. Community governance extends beyond typical DAO functions to include voting on conservation project funding from the platform treasury, making gaming activities directly beneficial to planetary health while providing sustainable play-to-earn opportunities.
